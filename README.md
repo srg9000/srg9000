@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Transformers, Django and other interesting things I come across.
 - 👯 I’m looking to collaborate on Research projects which leverage AI for tasks across various domains.
 - 💬 Ask me about ML, Deep learning, AI and any of it's subfields. (Im also open to anything else)
-- 📫 How to reach me: [E-mail: sajangohil11@gmail.com](sajangohil11@gmail.com), [Linkedin](https://www.linkedin.com/in/sajan-gohil)
+- 📫 How to reach me: [E-mail: sajangohil11@gmail.com](mailto:sajangohil11@gmail.com), [Linkedin](https://www.linkedin.com/in/sajan-gohil)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also interested in graphic designing and similar creative fields and was a video editor for my university's film-making club. That's how I got into Computer Vision!
 
