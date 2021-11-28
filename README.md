@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also interested in graphic designing and similar creative fields and was a video editor for my university's film-making club. That's how I got into Computer Vision!
 
-# Resume
-📃 [Resume](https://drive.google.com/file/d/19mYAEMi-gXGtwn8AO5hRKQHBHPM7F741/view?usp=sharing)
+# Resume and Certifications
+📃 [Resume](https://drive.google.com/file/d/1yoBIy3L9VYwtw0fr0oA8eGyLNpiqUMab/view?usp=sharing)
+📃 [Certificationss](https://drive.google.com/drive/folders/1vleiDsgRtFs8wghOZw0n4DmWLyLuhDJH?usp=sharing)
 
 # Contact Me:
 [![image-gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajangohil11@gmail.com)
