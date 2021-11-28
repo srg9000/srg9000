@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am also interested in graphic designing and similar creative fields and was a video editor for my university's film-making club. That's how I got into Computer Vision!
 
 # Resume
-📃 [Resume](https://drive.google.com/drive/folders/1amLlgnoodXEQjerPghSmq6MVTjCGNEEw?usp=sharing)
+📃 [Resume](https://drive.google.com/file/d/19mYAEMi-gXGtwn8AO5hRKQHBHPM7F741/view?usp=sharing)
 
 # Contact Me:
 [![image-gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajangohil11@gmail.com)
