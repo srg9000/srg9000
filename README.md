@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Kits21 challenge](https://kits21.kits-challenge.org/)
+- 🔭 I’m currently working on research project related to Table Structure Recognition using Graph neural nets on a large scale synthetic dataset (to be published).
 - 🌱 I’m currently learning about Transformers, Django and other interesting things I come across.
 - 👯 I’m looking to collaborate on Research projects which leverage AI for tasks across various domains.
 - 💬 Ask me about ML, Deep learning, AI and any of it's subfields. (Im also open to anything else)
